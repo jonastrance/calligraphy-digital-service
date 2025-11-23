@@ -85,7 +85,7 @@ Digital download - no physical shipping required
 ## Shop Policies
 
 ### Returns & Exchanges:
-Due to the personalized nature of this digital product, all sales are final. However, if there's an error on my part, I'll happily provide corrections at no charge.
+Due to the personalized nature of this digital product, all sales are final. However, if there's an error on my part (spelling mistakes, wrong text, or technical file issues), please report it within 7 days of delivery and I'll happily provide corrections at no charge.
 
 ### Cancellations:
 Orders can be cancelled within 2 hours of purchase for a full refund. After work has begun, refunds cannot be issued.

@@ -300,7 +300,7 @@ Create highlights for:
 ### Design Tips:
 1. Keep text large and readable (mobile-first)
 2. Use contrasting colors for visibility
-3. Leave "safe zones" at top/bottom (not cut off by UI)
+3. Leave "safe zones" at top/bottom (250px margins recommended to avoid being cut off by Instagram UI)
 4. Brand consistently (colors, fonts, logo placement)
 5. Use high-quality photos (avoid blur and pixelation)
 6. Add subtle animation (using Instagram's features)

@@ -47,6 +47,8 @@ This directory contains ready-to-use templates for listing your calligraphy serv
 
 ## Platform Comparison
 
+> **Note:** Fee structures are accurate as of 2024. Always verify current rates on platform websites as they may change.
+
 | Feature | Etsy | Fiverr |
 |---------|------|--------|
 | **Fee Structure** | 6.5% transaction + $0.20 listing | 20% commission |
