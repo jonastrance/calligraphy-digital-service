@@ -1,0 +1,11 @@
+# Menu Items Sample
+
+**Style:** Restaurant/Wedding Menu Script
+**Content:** Menu items and dishes
+**Example:** "Herb-Crusted Salmon", "Garden Fresh Salad"
+
+## Recommended Elements:
+- Refined and appetizing presentation
+- Multiple menu item examples
+- Shows consistency in a list format
+- Elegant but readable

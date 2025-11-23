@@ -1,0 +1,11 @@
+# Inspirational Quote Sample
+
+**Style:** Modern Calligraphy
+**Content:** Motivational quote
+**Example:** "She believed she could, so she did."
+
+## Recommended Elements:
+- Mix of thick and thin strokes
+- Bouncy baseline for modern feel
+- Emphasis on key words with size variation
+- Black ink on cream background
