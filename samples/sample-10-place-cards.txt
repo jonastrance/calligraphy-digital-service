@@ -1,0 +1,11 @@
+# Place Cards Sample
+
+**Style:** Name Card Script
+**Content:** Guest names for place cards
+**Example:** "Emma Johnson", "Michael Chen", "Sarah Williams"
+
+## Recommended Elements:
+- Multiple name examples
+- Shows how different name lengths work
+- Demonstrates spacing and centering
+- Professional and elegant

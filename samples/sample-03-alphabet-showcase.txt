@@ -1,0 +1,12 @@
+# Alphabet Showcase Sample
+
+**Style:** Signature Script Style
+**Content:** Complete alphabet (A-Z uppercase and lowercase)
+**Example:** "Aa Bb Cc Dd Ee Ff..."
+
+## Recommended Elements:
+- Both capital and lowercase letters
+- Consistent slant and spacing
+- Shows your signature style clearly
+- Numbers 0-9 included
+- Common ligatures demonstrated
